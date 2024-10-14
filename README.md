@@ -14,19 +14,19 @@
 |4|LED|2|
 |5|برد بورد|1|
 ## ریزپردازنده
-![alt text](.jpg)
+![alt text](micro.jpg)
 
 ## سیم
-![alt text](image.jpg)
+![alt text](Sim.jpg)
 
 ## مقاومت
-![alt text](image.jpg)
+![alt text](Resis.jpg)
 
 ## LED
-![alt text](image.jpg)
+![alt text](LED.jpg)
 
 ## برد بورد
-![alt text](image.jpg)
+![alt text](Board.jpg)
 
 ---
 ## عملکرد های مدار ها 
