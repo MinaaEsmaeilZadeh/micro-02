@@ -17,7 +17,8 @@
 ![](github.com/MinaEsmaeilZadeh/micro-02/media/micro.jpg)
 
 ## سیم
-![](Sim.jpg)
+![ ](Sim.jpg)
+
 
 ## مقاومت
 ![](Resis.jpg)
