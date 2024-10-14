@@ -31,3 +31,12 @@
 
 ---
 ## عملکرد های مدار ها 
+
+> ![](/media/video_1.gif)
+
+> ![](/media/video_4.gif)
+
+> ![](/media/video_3.gif)
+
+> ![](/media/video_2.gif)
+
