@@ -14,7 +14,7 @@
 |4|LED|2|
 |5|برد بورد|1|
 ## ریزپردازنده
-![](micro-02/media/micro.jpg)
+![](github.com/MinaEsmaeilZadeh/micro-02/media/micro.jpg)
 
 ## سیم
 ![](Sim.jpg)
